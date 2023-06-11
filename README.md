@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=muhamadzolfaghari" alt="muhamadzolfaghari"/>
 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=muhamadzolfaghari" alt="muhamadzolfaghari" />
-
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadzolfaghari" alt="muhamadzolfaghari" />
