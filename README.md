@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="display: flex; ">
 <img src="https://komarev.com/ghpvc/?username=muhamadzolfaghari" alt="muhamadzolfaghari"/>
-
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=muhamadzolfaghari" alt="muhamadzolfaghari" height="120" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=muhamadzolfaghari" alt="muhamadzolfaghari" height="120" />
+ </div>
