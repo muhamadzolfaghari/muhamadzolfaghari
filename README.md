@@ -1,5 +1,5 @@
 ### Hi 
-
+// - 🔭 I’m currently working on MapView for React as `@parsimap-mapbox-gl` which can be installed from npm as well, I really appreciate that when you have a time please use that and when you encounter with any problem just make issues here.
 <!--
 **muhamadzolfaghari/muhamadzolfaghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
+<p style="display: flex; aling-items: center;">
 	<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadzolfaghari&layout=compact&show_icons=true&theme=dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=muhamadzolfaghari&theme=dark&show_icons=ture" />
 	<img src="https://komarev.com/ghpvc/?username=muhamadzolfaghari" alt="muhamadzolfaghari"/>
