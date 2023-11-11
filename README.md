@@ -1,5 +1,5 @@
 ### Hi There   😊✋
-- 🔭 I’m currently working on MapView for React as a package with name of `@parsimap/react-mapbox-gl` which can be installed from npm as well, I'll be appreciate when you have a time please use that and when you encounter with any problem just open issue.
+- 🔭 I’m currently open to work if you have any opportunity I will be glad to hear, make feel free to get in touch with me.
 <!--
 **muhamadzolfaghari/muhamadzolfaghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
