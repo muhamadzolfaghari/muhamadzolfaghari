@@ -1,7 +1,5 @@
 ### Hi There   😊✋
-- 🔭 I’m starting a free online course, if you are looking for front-end learning you can join my Telegram public group.
-- https://t.me/muhamadzl
-The current topic is how to use Material UI in react
+- 🔭 I’m enjoying of my life
 <!--
 **muhamadzolfaghari/muhamadzolfaghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
