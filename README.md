@@ -1,125 +1,122 @@
+<div align="center">
+
 # Mohammad Zolfaghari
 
-### Frontend Engineer · Design-System Contributor · Technical Analyst
+**Senior Frontend Engineer · Design System Architect · OSS Author**
 
-I build scalable web applications with **React**, **Next.js**, and **TypeScript**, focusing on frontend architecture, design systems, performance, testing, and maintainability.
+[![Profile Views](https://komarev.com/ghpvc/?username=muhamadzolfaghari&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/muhamadzolfaghari)
+[![npm](https://img.shields.io/npm/dt/persian-date-native?color=6366f1&label=persian-date-native%20downloads&style=flat-square)](https://www.npmjs.com/package/persian-date-native)
+[![Followers](https://img.shields.io/github/followers/muhamadzolfaghari?color=6366f1&style=flat-square&label=Followers)](https://github.com/muhamadzolfaghari?tab=followers)
 
-Alongside implementation, I investigate complex systems, trace behavior across application layers, document technical findings, and turn them into practical engineering plans.
+*Building scalable web systems with precision — from component APIs to astronomical date math*
 
-## What I work on
+</div>
 
-* Mobile-first PWAs and service-based products
-* Reusable component libraries and design systems
-* Figma-to-code implementation and visual validation
-* Frontend architecture and gradual legacy modernization
-* Authentication, API, caching, and request flows
-* Performance, accessibility, automated testing, and CI/CD
-* Technical investigations, architecture reports, and migration roadmaps
+---
 
-## Technical analysis
+## 🚀 Featured Open Source
 
-A major part of my work is understanding how large systems behave before changing them.
+<table>
+<tr>
+<td width="50%">
 
-My reports commonly cover:
+### [persian-date-native](https://github.com/muhamadzolfaghari/persian-date-native)
+[![npm version](https://img.shields.io/npm/v/persian-date-native?color=6366f1&style=flat-square)](https://www.npmjs.com/package/persian-date-native)
+[![npm downloads](https://img.shields.io/npm/dm/persian-date-native?color=22c55e&style=flat-square)](https://www.npmjs.com/package/persian-date-native)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/persian-date-native?color=f59e0b&style=flat-square)](https://bundlephobia.com/package/persian-date-native)
 
-* Current-state architecture and dependency maps
-* Root-cause and request-flow analysis
-* Design-system audits and component-reuse classification
-* Performance, bundle, and compatibility risks
-* Legacy-to-modern migration strategies
-* Phased implementation and testing plans
+Ultra-fast, **zero-dependency** Persian (Jalali/Shamsi) date engine extending the native JavaScript `Date` object. **89M+ ops/sec** — the fastest in its class.
 
-I separate verified evidence from assumptions, make trade-offs explicit, and give engineering teams a clear path from investigation to implementation.
+```ts
+import { PersianDate } from 'persian-date-native';
 
-## Design systems and architecture
+const d = new PersianDate(2024, 1, 15);
+console.log(d.format('YYYY/MM/DD')); // 1402/10/25
+console.log(d.toGregorianDate());    // 2024-01-15
+```
 
-I work on reusable React component systems with:
-
-* Type-safe component APIs and compound patterns
-* Design tokens, themes, CSS variables, and color rules
-* Tailwind CSS with isolated prefixed styling
-* Responsive foundations and layout utilities
-* Runtime normalization of server-provided styles
-* Rollup builds, package releases, and consumer compatibility
-* Component documentation and implementation guidance
-
-I treat a component library as an engineering product: its API, documentation, compatibility, performance, and developer experience are as important as its appearance.
-
-## Selected projects
+</td>
+<td width="50%">
 
 ### [React Under the Hood](https://github.com/muhamadzolfaghari/react-under-the-hood)
 
-A simplified React implementation exploring rendering, virtual DOM concepts, hooks, state management, `useState`, and `useEffect`.
+Deep-dive explorations into React internals — reconciliation, fiber architecture, hooks, concurrent mode, and render optimization.
 
-### [ESLint Import Groups](https://github.com/muhamadzolfaghari/eslint-import-groups)
+Practical analysis for engineers who want to go beyond the docs and understand *why* React behaves the way it does.
 
-An ESLint configuration for predictable grouping and ordering of built-in, external, and internal imports.
+</td>
+</tr>
+</table>
 
-### [Retry Pattern in JavaScript](https://github.com/muhamadzolfaghari/retry-pattern-js)
+---
 
-A practical implementation of configurable retries and exponential backoff for asynchronous operations.
+## 🛠 Tech Stack
 
-### [Common JavaScript Validations](https://github.com/muhamadzolfaghari/most-common-js-validations)
+<div align="center">
 
-Reusable validation utilities for Iranian national IDs, company IDs, phone numbers, and geographic coordinates.
+**Languages & Frameworks**
 
-### [Persian Date](https://github.com/mu-utils/persian-date)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-A TypeScript date library supporting Persian and Gregorian calendars, conversion, formatting, arithmetic, comparison, time zones, and leap years.
+**Tooling & Infrastructure**
 
-### [Deferred in JavaScript](https://github.com/muhamadzolfaghari/deferred-in-js)
+![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Examples of deferred objects and manual Promise control in HTTP-client initialization and image-loading scenarios.
+</div>
 
-## GitHub analytics
+---
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=muhamadzolfaghari&theme=transparent&hide_border=true"
-    alt="Mohammad Zolfaghari's contribution streak"
-  />
-</p>
+## 📊 GitHub Stats
 
-<!-- Add these after configuring GitHub Profile Summary Cards -->
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=muhamadzolfaghari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadzolfaghari&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/muhamadzolfaghari/muhamadzolfaghari/main/profile-summary-card-output/github_dark/0-profile-details.svg"
-    alt="GitHub profile details"
-  />
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadzolfaghari&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://raw.githubusercontent.com/muhamadzolfaghari/muhamadzolfaghari/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
-    alt="Most used languages by commit"
-  />
-  <img
-    width="49%"
-    src="https://raw.githubusercontent.com/muhamadzolfaghari/muhamadzolfaghari/main/profile-summary-card-output/github_dark/4-productive-time.svg"
-    alt="Commits by time of day"
-  />
-</p>
+---
 
-> Language statistics indicate repository activity, not overall proficiency.
+## 💼 What I do
 
-## Technology
+| Area | Focus |
+|------|-------|
+| 🏗 **Frontend Architecture** | Scalable React apps, micro-frontends, gradual modernization |
+| 🎨 **Design Systems** | Type-safe component APIs, design tokens, Rollup builds |
+| 🔍 **Technical Analysis** | Architecture audits, root-cause analysis, migration roadmaps |
+| ⚡ **Performance** | Bundle optimization, rendering efficiency, Core Web Vitals |
+| 📦 **OSS Libraries** | Zero-dependency utilities, astronomical computation, npm publishing |
+| 🧪 **Testing & CI/CD** | Jest, RTL, automated pipelines, coverage enforcement |
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `React Query`
-`Tailwind CSS` · `Sass` · `Framer Motion` · `React Hook Form` · `Zod`
-`Playwright` · `Testing Library` · `Jest` · `Rollup` · `Node.js` · `CI/CD`
+---
 
-## Engineering principles
+## 📝 Engineering Approach
 
-* Investigate before changing.
-* Separate evidence from assumptions.
-* Preserve behavior during modernization.
-* Treat edge cases as part of the feature.
-* Make architectural trade-offs explicit.
-* Optimize based on measurement.
-* Leave the system easier to understand.
+I separate **verified evidence from assumptions**, make trade-offs explicit, and give engineering teams a clear path from investigation to implementation.
 
-## Connect
+Before building, I understand:
+- Current-state architecture and dependency maps
+- Root-cause and request-flow analysis
+- Performance, bundle, and compatibility risks
+- Phased migration strategies with rollback plans
 
-[LinkedIn](https://www.linkedin.com/in/muhamadzolfaghari/) · [GitHub](https://github.com/muhamadzolfaghari)
+---
+
+<div align="center">
+
+**📍 Tehran, Iran · 🏢 Hafhastad · 💼 Open to opportunities**
+
+[![GitHub](https://img.shields.io/badge/GitHub-muhamadzolfaghari-181717?style=flat-square&logo=github)](https://github.com/muhamadzolfaghari)
+[![npm](https://img.shields.io/badge/npm-muhamadzolfaghari-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/~muhamadzolfaghari)
+
+</div>
