@@ -2,22 +2,39 @@
 
 # Mohammad Zolfaghari
 
-**Senior Frontend Engineer · Design System Architect · OSS Author**
+**Senior Frontend Engineer · AI Agent Skills Architect · OSS Author**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=muhamadzolfaghari&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/muhamadzolfaghari)
 [![npm](https://img.shields.io/npm/dt/persian-date-native?color=6366f1&label=persian-date-native%20downloads&style=flat-square)](https://www.npmjs.com/package/persian-date-native)
+[![Universal Skills](https://img.shields.io/badge/AI%20Agent%20Skills-11%20Production%20Skills-brightgreen?style=flat-square)](https://github.com/muhamadzolfaghari/universal-agent-skills)
 [![Followers](https://img.shields.io/github/followers/muhamadzolfaghari?color=6366f1&style=flat-square&label=Followers)](https://github.com/muhamadzolfaghari?tab=followers)
 
-*Building scalable web systems with precision — from component APIs to astronomical date math*
+*Building scalable web systems with precision — from component APIs to AI agent skills and astronomical date math*
 
 </div>
 
 ---
 
-## 🚀 Featured Open Source
+## 🚀 Featured Open Source & Projects
 
 <table>
 <tr>
+<td width="50%">
+
+### [universal-agent-skills](https://github.com/muhamadzolfaghari/universal-agent-skills)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/muhamadzolfaghari/universal-agent-skills)
+[![Validate Skills](https://github.com/muhamadzolfaghari/universal-agent-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/muhamadzolfaghari/universal-agent-skills/actions)
+
+Curated suite of **11 vendor-neutral, production-grade AI Agent Skills** for Antigravity, Cursor, Claude Code, and Windsurf.
+
+Features automated workflows for:
+* 🎯 Master Frontend Product Engineering
+* 🎨 Figma & Visual Layout Analysis
+* ⚡ Core Web Vitals & Re-render Optimization
+* 🏛️ Clean Architecture & SOLID Code Audits
+* 📦 PNPM Workspace & Monorepo Migrations
+
+</td>
 <td width="50%">
 
 ### [persian-date-native](https://github.com/muhamadzolfaghari/persian-date-native)
@@ -25,7 +42,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/persian-date-native?color=22c55e&style=flat-square)](https://www.npmjs.com/package/persian-date-native)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/persian-date-native?color=f59e0b&style=flat-square)](https://bundlephobia.com/package/persian-date-native)
 
-Ultra-fast, **zero-dependency** Persian (Jalali/Shamsi) date engine extending the native JavaScript `Date` object. **89M+ ops/sec** — the fastest in its class.
+Ultra-fast, **zero-dependency** Persian (Jalali/Shamsi) date engine extending native JavaScript `Date`. **89M+ ops/sec** — the fastest in its class.
 
 ```ts
 import { PersianDate } from 'persian-date-native';
@@ -36,13 +53,13 @@ console.log(d.toGregorianDate());    // 2024-01-15
 ```
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td colspan="2">
 
 ### [React Under the Hood](https://github.com/muhamadzolfaghari/react-under-the-hood)
 
-Deep-dive explorations into React internals — reconciliation, fiber architecture, hooks, concurrent mode, and render optimization.
-
-Practical analysis for engineers who want to go beyond the docs and understand *why* React behaves the way it does.
+Deep-dive explorations into React internals — reconciliation, fiber architecture, hooks, concurrent mode, and render optimization. Practical analysis for engineers who want to go beyond the docs and understand *why* React behaves the way it does.
 
 </td>
 </tr>
@@ -62,9 +79,12 @@ Practical analysis for engineers who want to go beyond the docs and understand *
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Tooling & Infrastructure**
+**AI Agent Engineering & Tooling**
 
-![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PNPM Workspaces](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -91,12 +111,12 @@ Practical analysis for engineers who want to go beyond the docs and understand *
 
 | Area | Focus |
 |------|-------|
-| 🏗 **Frontend Architecture** | Scalable React apps, micro-frontends, gradual modernization |
-| 🎨 **Design Systems** | Type-safe component APIs, design tokens, Rollup builds |
-| 🔍 **Technical Analysis** | Architecture audits, root-cause analysis, migration roadmaps |
-| ⚡ **Performance** | Bundle optimization, rendering efficiency, Core Web Vitals |
-| 📦 **OSS Libraries** | Zero-dependency utilities, astronomical computation, npm publishing |
-| 🧪 **Testing & CI/CD** | Jest, RTL, automated pipelines, coverage enforcement |
+| 🤖 **AI Agent Orchestration** | Custom agent skills, prompt contracts, tool integration, cross-IDE portability |
+| 🏗 **Frontend Architecture** | Scalable React apps, micro-frontends, clean architecture (DDD/SOLID), monorepos |
+| 🎨 **Design Systems** | Type-safe component APIs, design tokens, Rollup builds, Figma-to-code workflows |
+| ⚡ **Performance** | Bundle optimization, rendering efficiency, Core Web Vitals, re-render audits |
+| 📦 **OSS Libraries** | Zero-dependency utilities, astronomical computation, pnpm workspaces, npm publishing |
+| 🧪 **Testing & CI/CD** | Jest, RTL, automated GitHub Actions pipelines, coverage enforcement |
 
 ---
 
