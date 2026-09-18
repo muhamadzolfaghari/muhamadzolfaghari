@@ -184,6 +184,8 @@ Shipping matters more than activity counters, but consistency still matters.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=muhamadzolfaghari&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
+![Profile Views](https://komarev.com/ghpvc/?username=muhamadzolfaghari&style=flat-square)
+
 </div>
 
 ---
@@ -193,4 +195,3 @@ Shipping matters more than activity counters, but consistency still matters.
 - **GitHub:** [@muhamadzolfaghari](https://github.com/muhamadzolfaghari)
 - **npm:** [muhamadzolfaghari](https://www.npmjs.com/~muhamadzolfaghari)
 - **Open-source interests:** frontend architecture, design systems, developer tooling, AI-assisted engineering workflows
-
