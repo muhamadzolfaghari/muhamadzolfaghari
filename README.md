@@ -8,8 +8,8 @@
 
 I build production frontend systems, reusable UI infrastructure, developer tools, and engineering workflows that make software easier to scale, verify, and maintain.
 
-[![npm](https://img.shields.io/badge/npm-muhamadzolfaghari-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~muhamadzolfaghari)
 [![Followers](https://img.shields.io/github/followers/muhamadzolfaghari?style=flat-square&label=GitHub%20Followers)](https://github.com/muhamadzolfaghari?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Zolfaghari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamadzolfaghari/)
 
 </div>
 
@@ -34,7 +34,31 @@ The direction is intentional: **write code → understand systems → build reus
 
 ## Shipped Public Showcase
 
-### [persian-date-native](https://github.com/muhamadzolfaghari/persian-date-native) — ✅ Shipped
+### [docs-healthcheck](https://github.com/muhamadzolfaghari/docs-healthcheck) — ✅ Published
+
+[![npm version](https://img.shields.io/npm/v/docs-healthcheck?style=flat-square&color=38bdf8)](https://www.npmjs.com/package/docs-healthcheck)
+[![npm downloads](https://img.shields.io/npm/dm/docs-healthcheck?style=flat-square&color=6366f1)](https://www.npmjs.com/package/docs-healthcheck)
+[![Live Demo](https://img.shields.io/badge/live_demo-GitHub%20Pages-22c55e?style=flat-square&logo=github)](https://muhamadzolfaghari.github.io/docs-healthcheck/)
+
+An evidence-backed documentation quality gate and deterministic repair CLI for Markdown repositories.
+
+**What it demonstrates**
+
+- Install-and-run CLI workflow with `npx docs-healthcheck`
+- Deterministic Markdown analysis with explicit ERROR / WARN / INFO severity
+- Central rule catalog with documented rationale, authority class, references and configurable severity
+- Broken anchors, missing local files, heading structure, duplicate headings and repository-health checks
+- Safe/confirm/manual repair policy with dry-run support and rollback/revert capability
+- Realistic healthy, partially broken and severely broken Markdown scenario coverage
+- Automated build, typecheck, tests, package validation and npm distribution
+- Real-world validation against a repository containing dozens of Markdown files and more than a thousand links
+- GitHub Pages documentation and browser playground
+
+**Links:** [Repository](https://github.com/muhamadzolfaghari/docs-healthcheck) · [npm](https://www.npmjs.com/package/docs-healthcheck) · [Live Demo](https://muhamadzolfaghari.github.io/docs-healthcheck/)
+
+---
+
+### [persian-date-native](https://github.com/muhamadzolfaghari/persian-date-native) — ✅ Published
 
 [![npm version](https://img.shields.io/npm/v/persian-date-native?style=flat-square&color=38bdf8)](https://www.npmjs.com/package/persian-date-native)
 [![npm downloads](https://img.shields.io/npm/dm/persian-date-native?style=flat-square&color=6366f1)](https://www.npmjs.com/package/persian-date-native)
@@ -51,11 +75,11 @@ A TypeScript-first Persian (Jalali / Shamsi) date engine designed as a real dist
 - Automated tests, build verification, package checks and multi-runtime validation
 - GitHub Pages documentation and interactive browser tools
 - Automated npm release flow with registry, unpkg and jsDelivr verification
-- Reproducible performance benchmarking, including documented high-throughput pure date conversion
+- Reproducible performance benchmarking
 
 **Links:** [Repository](https://github.com/muhamadzolfaghari/persian-date-native) · [npm](https://www.npmjs.com/package/persian-date-native) · [Live Demo](https://muhamadzolfaghari.github.io/persian-date-native/) · [Releases](https://github.com/muhamadzolfaghari/persian-date-native/releases)
 
-> This is the first project in my current “finish → verify → document → publish → showcase” cycle.
+> My current public-project loop is: **build → verify → document → publish → use on real systems → maintain.**
 
 ---
 
@@ -102,7 +126,7 @@ The goal is not to reproduce React, but to understand the mechanics behind the a
 
 A Markdown table-of-contents generator and one of my earlier public developer-tool projects.
 
-It is part of the path that is now evolving into broader documentation-health and repository-quality tooling.
+Its evolution into `docs-healthcheck` reflects a broader shift from small utilities toward **verified developer tooling with explicit rules, tests and release discipline**.
 
 </td>
 </tr>
@@ -141,6 +165,8 @@ Documentation
   ↓
 Release
   ↓
+Real-world validation
+  ↓
 Reusable knowledge / tooling
 ```
 
@@ -166,13 +192,14 @@ AI is part of that workflow, but not the decision maker. I use agents to acceler
 
 ---
 
-## Building Next
+## Engineering Principles
 
-### [docs-healthcheck](https://github.com/muhamadzolfaghari/docs-healthcheck) — 🚧 Next public tool
-
-The next step in this portfolio cycle is documentation/repository health tooling: taking lessons from smaller utilities such as `readme-toc-generator` and evolving them into a more complete, testable developer tool.
-
-I am deliberately building this portfolio **one finished engineering asset at a time** instead of creating many unfinished repositories.
+- Prefer evidence over assumptions.
+- Treat architecture and boundaries as part of implementation, not post-work documentation.
+- Automate checks that should not depend on memory.
+- Separate correctness failures from conventions and heuristics.
+- Ship small tools completely before expanding their scope.
+- Use AI for leverage, but keep verification deterministic wherever possible.
 
 ---
 
@@ -193,5 +220,6 @@ Shipping matters more than activity counters, but consistency still matters.
 ## Connect
 
 - **GitHub:** [@muhamadzolfaghari](https://github.com/muhamadzolfaghari)
-- **npm:** [muhamadzolfaghari](https://www.npmjs.com/~muhamadzolfaghari)
+- **LinkedIn:** [Mohammad Zolfaghari](https://www.linkedin.com/in/muhamadzolfaghari/)
+- **npm packages:** [docs-healthcheck](https://www.npmjs.com/package/docs-healthcheck) · [persian-date-native](https://www.npmjs.com/package/persian-date-native)
 - **Open-source interests:** frontend architecture, design systems, developer tooling, AI-assisted engineering workflows
